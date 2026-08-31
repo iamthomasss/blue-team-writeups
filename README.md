@@ -6,3 +6,4 @@ SOC Analyst in transition | GCIH certified | Lab: Wireshark, Kali Linux, Volatil
 | # | Case | Type | Platform |
 |---|---|---|---|
 | 01 | JetBrains Lab | Network Forensics | CyberDefenders |
+| 02 | PoisonedCredentials | Network Forensics | CyberDefenders |
